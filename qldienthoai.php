@@ -26,7 +26,7 @@
             border-bottom-left-radius: 0;
         }
     </style>
-	<title>Quản Lý Điện Thoại</title>
+	<title>Quản Lý <I><i></i></I></title>
 
 </head>
 <body>
