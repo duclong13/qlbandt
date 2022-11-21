@@ -26,7 +26,7 @@
             border-bottom-left-radius: 0;
         }
     </style>
-	<title>Quản Lý Dòng Máy</title>
+	<title>Quản Lý kiểu <datagrid></datagrid></title>
 
 </head>
 <body>
